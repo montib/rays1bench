@@ -28,7 +28,7 @@
 #include <immintrin.h>
 
 #include "../common/common.h"
-#include "math.h"
+#include "mymath.h"
 #include "soa_sphere.h"
 
 #define SIMD_WIDTH  8
