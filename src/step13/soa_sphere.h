@@ -5,7 +5,7 @@
 #include <stdint.h>
 #include <assert.h>
 
-#include "math.h"
+#include "mymath.h"
 
 class Material;
 

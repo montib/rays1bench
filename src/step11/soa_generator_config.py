@@ -5,7 +5,7 @@ sys.path.append('../../soa_generator')
 import soa_generator as soa
 
 
-header_extra = '#include "math.h"\n\nclass Material;\n'
+header_extra = '#include "mymath.h"\n\nclass Material;\n'
 add_parameters = 'Vec3 center, float radius, Material *material'
 
 

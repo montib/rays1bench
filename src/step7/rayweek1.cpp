@@ -28,7 +28,7 @@
 #include <string.h>
 
 #include "../common/common.h"
-#include "math.h"
+#include "mymath.h"
 #include "soa_sphere.h"
 
 
